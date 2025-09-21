@@ -123,7 +123,3 @@ IV. Defina o período mínimo de espera: **7 dias**.
 V. Confirme a exclusão.
 
 ⚠️ Importante: este tempo de espera é um mecanismo de segurança. Se a chave for excluída, **todos os dados criptografados com ela se tornam irrecuperáveis**.
-
----
-
-Quer que eu já prepare esse conteúdo em formato **Markdown (`.md`)** pronto para você adicionar no repositório?
